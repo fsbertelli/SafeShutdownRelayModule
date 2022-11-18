@@ -1,0 +1,1 @@
+@reboot sleep 15 && python3 /home/solarbot/(script_device).py >> /home/solarbot/shutdownlog.txt 2>&1
