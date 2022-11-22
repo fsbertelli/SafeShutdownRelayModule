@@ -10,4 +10,4 @@ Necessário instalar o CRON na Jetson IA
 
 sudo apt-get install cron
 
-![sketch_button](https://user-images.githubusercontent.com/42683582/202769238-9b74b41d-3d72-4d92-9e37-4543b03105ae.png)
+![sketch_button_v3](https://user-images.githubusercontent.com/42683582/203343707-c3ae64c4-ac1d-4215-a13a-e3b068400211.png)
